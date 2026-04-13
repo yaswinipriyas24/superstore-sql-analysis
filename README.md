@@ -30,16 +30,6 @@ This project is part of **Elevate Labs Internship – Task 3**, focused on analy
 - SQL  
 - Excel (Data Cleaning)  
 
----
 
-## 📊 SQL Analysis Tasks
 
-### 🔹 1. Total Records
-```sql
-SELECT COUNT(*) FROM `sample - superstore`;
-```
 
-Author 
-Yaswini Priya
-
-Aspiring Data Analyst 
