@@ -1,50 +1,40 @@
-# 🛒 Superstore Data Analysis (SQL + Dashboard)
-### 📌 Elevate Labs Internship – Task 3 & Task 4
+# 🛒 Superstore SQL Analysis  
+### 📌 Elevate Labs Internship – Task 3
 
 ---
 
 ## 📖 Overview
-This project is part of the **Elevate Labs Data Analytics Internship**, covering:
-
-- **Task 3:** SQL-based Data Analysis  
-- **Task 4:** Interactive Dashboard Design  
-
-The goal is to analyze the Superstore dataset, extract meaningful insights using SQL, and visualize them through an interactive dashboard.
+This project is part of **Elevate Labs Internship – Task 3**, focused on analyzing a retail dataset using SQL. The objective is to extract meaningful business insights from structured data and demonstrate practical SQL skills.
 
 ---
 
-## 🎯 Objectives
-- Perform data analysis using SQL  
-- Extract business insights from structured data  
-- Design an interactive dashboard for decision-making  
-- Apply data visualization best practices  
+## 🎯 Objective
+- Learn how to query structured data using SQL  
+- Perform data analysis on a real-world dataset  
+- Generate insights related to sales, customers, and product performance  
 
 ---
 
 ## 📂 Dataset
-- **Dataset:** Superstore Sales Data  
-- Includes:
-  - Orders  
-  - Customers  
-  - Products  
-  - Sales, Profit, Discount  
+- **Dataset Name:** Superstore Sales Data  
+- Contains:
+  - Order details  
+  - Customer information  
+  - Product categories  
+  - Sales, Profit, and Discount  
 
 ---
 
-## 🛠️ Tools & Technologies
-- MySQL Workbench (SQL Analysis)  
-- Power BI (Dashboard)  
-- Power Query  
-- DAX  
+## 🛠 Tools & Technologies
+- MySQL Workbench  
+- SQL  
 - Excel (Data Cleaning)  
 
 ---
 
-# 🔍 SQL Analysis (Task 3)
+## 📊 SQL Analysis Tasks
 
-## 🔹 Query Analysis
-
-### 1. Total Records
+### 🔹 1. Total Records
 ```sql
 SELECT COUNT(*) FROM `sample - superstore`;
 ```
